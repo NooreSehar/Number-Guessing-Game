@@ -11,7 +11,4 @@ The game generates a random number between **1–100**, and the player has to gu
 - Responsive and clean design  
 
 ## 🖥️ Live Demo  
-🔗 [View on Netlify] http://dancing-jelly-0ead54.netlify.app/ 
-
-## 📂 Project Structure  
-v
+🔗 [View on Netlify] http://dancing-jelly-0ead54.netlify.app/
